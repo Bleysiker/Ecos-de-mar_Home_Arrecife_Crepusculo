@@ -1,1 +1,3 @@
-No estan incluidos los modelos 3D del home, arrecife y manglar puesto que pesan mas de 100 MB
+- No estan incluidos los modelos 3D del home, arrecife y manglar puesto que no se dejaban subir
+- los apks estan en la rama master en un zip llamado APKS
+  
